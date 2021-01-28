@@ -1,5 +1,7 @@
 # Weather-Dashboard
 
+![](https://media.giphy.com/media/U1ycetyfQhAoMXKGuz/giphy.gif)
+
 ## Description
 This project was created to fine tune my web development skills in the areas of both jquery and AJAX methods using APIs. The objective was to create a simple weather dashboard which would display a search area to the left and a weather rendering area to the right, which included both a "current weather" card and also a "5-day forecast" card.
 
