@@ -127,6 +127,9 @@ function populatePage(response) {
     if (response.weather[0].main === 'Snow') {
         $("#weatherStats").css("background-image", "url(https://images.pexels.com/photos/60561/winter-snow-nature-60561.jpeg?auto=compress&cs=tinysrgb&dpr=2)");
     }
+    if (response.weather[0].main === 'Mist') {
+        $("#weatherStats").css("background-image", "url(https://images.pexels.com/photos/154246/pexels-photo-154246.jpeg?auto=compress&cs=tinysrgb&dpr=2)");
+    }
 
     // Append info to the current weather divs
 
